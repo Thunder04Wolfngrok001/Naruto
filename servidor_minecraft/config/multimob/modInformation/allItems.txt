@@ -2039,8 +2039,8 @@ narutomodaddononero:wlcs
 narutomodaddononero:nodati
 narutomodaddononero:default_katana_1
 narutomodaddononero:default_katana_2
-narutomodaddononero:kusarigama_hanzo
 narutomodaddononero:belt_raikagebody
+narutomodaddononero:kusarigama_hanzo
 narutomodaddononero:dragon_blade
 narutomodaddononero:scythe
 narutomodaddononero:easter_bandanahelmet
