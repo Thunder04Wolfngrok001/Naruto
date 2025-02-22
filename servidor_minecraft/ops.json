@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "3e004002-a926-3f4e-8e49-2b2535715ce3",
+    "name": "starlord",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
