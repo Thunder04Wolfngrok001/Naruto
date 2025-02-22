@@ -2543,3 +2543,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [04:00:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord joined the game
 [04:00:13] [Server thread/INFO] [Waila]: Player EntityPlayerMP['starlord'/826051, l='world', x=-40502.35, y=62.70, z=34189.11] connected. Sending ping
 [04:00:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[04:01:56] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table kabutoaddon:kabutoloot
