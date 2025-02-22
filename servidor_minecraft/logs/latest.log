@@ -2544,3 +2544,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [04:00:13] [Server thread/INFO] [Waila]: Player EntityPlayerMP['starlord'/826051, l='world', x=-40502.35, y=62.70, z=34189.11] connected. Sending ping
 [04:00:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
 [04:01:56] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table kabutoaddon:kabutoloot
+[04:15:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! -18.731147482692904,-0.9644458460883953,6.5566142033276265
+[04:15:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! -9.12604732759064,-0.6809473256961951,-14.272000797114742
+[04:15:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! 1.4906377412189613,-0.6809473256961951,-16.48675527557498
+[04:15:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! 14.97577329815249,-0.9019818349886464,9.727246325659507
+[04:16:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! -6.682943748637626,-0.007886324200455874,-19.246276141057024
+[04:17:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! -2.0300984545683605,-1.9905329939078626,14.229135767018306
+[04:17:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! -15.486573299735028,0.4067737401267095,12.126432093376934
+[04:17:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! -17.52282316855417,-5.054922855623914,6.339997495080752
+[04:17:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-2563, 2133] in dimension 0 (overworld) while populating chunk [-2563, 2132], causing cascading worldgen lag.
+[04:17:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
