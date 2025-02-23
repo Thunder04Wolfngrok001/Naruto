@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "697ac204-9ac6-3996-9215-037ca08c1786",
+    "name": "G4R3N",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "0cbedd3d-eed9-3844-921e-65adfa6b82cb",
     "name": "TUTUMA",
     "level": 4,
