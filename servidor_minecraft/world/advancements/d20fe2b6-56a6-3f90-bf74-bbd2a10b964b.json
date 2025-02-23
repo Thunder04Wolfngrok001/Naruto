@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "narutomod:shikotsumyaku_acquired": {
+    "criteria": {
+      "shikotsumyaku_acquired": "2025-02-23 16:50:32 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/clear_glass_cyan2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
