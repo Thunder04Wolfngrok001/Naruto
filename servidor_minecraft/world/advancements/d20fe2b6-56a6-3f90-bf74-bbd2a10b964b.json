@@ -59,6 +59,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-23 21:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-02-23 20:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-19 03:54:48 +0000"
@@ -515,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-23 21:33:30 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/clear_glass_black2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
@@ -563,6 +581,12 @@
   "connectedglass:recipes/buildingblocks/scratched_glass_orange2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-23 20:15:48 +0000"
     },
     "done": true
   },
@@ -818,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-23 21:33:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-19 03:23:52 +0000"
@@ -977,6 +1007,12 @@
   "connectedglass:recipes/buildingblocks/scratched_glass_lime2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-23 20:15:48 +0000"
     },
     "done": true
   },
@@ -1189,6 +1225,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-02-19 00:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-23 20:15:48 +0000"
     },
     "done": true
   },
@@ -1699,6 +1741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-23 20:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-02-20 00:16:07 +0000"
@@ -1975,6 +2023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-23 21:33:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-02-19 00:25:07 +0000"
@@ -1984,6 +2038,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 03:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-02-23 21:27:48 +0000"
     },
     "done": true
   },
