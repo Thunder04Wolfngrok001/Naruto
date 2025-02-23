@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-23 22:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 03:13:55 +0000"
@@ -600,6 +606,12 @@
   "connectedglass:recipes/buildingblocks/borderless_glass_lime2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-23 22:55:09 +0000"
     },
     "done": true
   },
@@ -1178,6 +1190,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-20 04:03:18 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_village": {
+    "criteria": {
+      "steal_crystal": "2025-02-23 22:17:43 +0000"
     },
     "done": true
   },
