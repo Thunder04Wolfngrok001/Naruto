@@ -3907,3 +3907,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [16:15:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported TUTUMA to starlord]
 [16:16:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported gamesforever750 to TUTUMA]
 [16:17:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set the time to 1000]
+[16:19:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported gamesforever750 to starlord]
+[16:20:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Teleported TUTUMA to gamesforever750]
