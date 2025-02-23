@@ -1551,6 +1551,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-02-23 19:23:54 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/decorations/scratched_glass_brown_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:18:34 +0000"

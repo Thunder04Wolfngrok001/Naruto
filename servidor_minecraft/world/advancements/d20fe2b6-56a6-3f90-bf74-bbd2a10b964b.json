@@ -1084,6 +1084,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2025-02-23 19:42:55 +0000",
       "stray": "2025-02-20 01:22:50 +0000",
       "wither_skeleton": "2025-02-19 22:08:12 +0000",
       "zombie_villager": "2025-02-19 22:07:58 +0000",
