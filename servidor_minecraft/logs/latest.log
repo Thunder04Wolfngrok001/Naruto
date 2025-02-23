@@ -2741,3 +2741,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [20:01:28] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-2532, 2085] in dimension 0 (overworld) while populating chunk [-2532, 2084], causing cascading worldgen lag.
 [20:01:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [20:02:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:otsutsuki that already exists with UUID cd6a3bbe-a353-44a3-a30b-6e6c552533f3
+[20:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N was slain by Otsutsuki
+[20:07:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:otsutsuki that already exists with UUID cd6a3bbe-a353-44a3-a30b-6e6c552533f3
+[20:08:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [G4R3N: Given Instant Health (ID 6) * 1 to G4R3N for 1 seconds]
+[20:08:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [G4R3N: Given Instant Health (ID 6) * 10 to G4R3N for 1 seconds]
+[20:08:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [G4R3N: Given Instant Health (ID 6) * 10 to G4R3N for 1 seconds]
+[20:08:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [G4R3N: Given Instant Health (ID 6) * 10 to G4R3N for 1 seconds]
+[20:09:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [G4R3N: Given Instant Health (ID 6) * 10 to G4R3N for 1 seconds]
+[20:13:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[20:13:28] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:234]: Server is stopping... force saving all loaded CosmeticArmor data.
+[20:13:28] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: 3e004002-a926-3f4e-8e49-2b2535715ce3
+[20:13:28] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: d20fe2b6-56a6-3f90-bf74-bbd2a10b964b
+[20:13:28] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: 697ac204-9ac6-3996-9215-037ca08c1786
+[20:13:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:13:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:13:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:13:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[20:13:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/kamuidimension
+[20:13:29] [Server thread/INFO] [FML]: Unloading dimension 0
+[20:13:29] [Server thread/INFO] [FML]: Unloading dimension 3
+[20:13:29] [Server thread/INFO] [RetroSophisticatedBackpacks]: Backpack UUID cache has been cleared
+[20:13:29] [Armourer's Workshop Server Skin Thread/INFO] [armourers_workshop]: Stopped server skin thread.
+[20:13:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:13:29] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
