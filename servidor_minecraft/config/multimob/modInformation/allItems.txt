@@ -2011,15 +2011,15 @@ kabutoaddon:kabuto_armor_pt_1
 kabutoaddon:sai_jacket
 kabutoaddon:obi_belt
 kabutoaddon:whiterobe
-kabutoaddon:katana
 kabutoaddon:sumirehime
+kabutoaddon:katana
 rerollthingy:mysteriousfruit
 rerollthingy:mysteriousplantbottom
 rerollthingy:mysteriousplanttop
 rerollthingy:forgedmedicaldocuments
 narutomodaddononero:garian_sword
-narutomodaddononero:shoton
 narutomodaddononero:sword_blue
+narutomodaddononero:shoton
 narutomodaddononero:kurosawa
 narutomodaddononero:fire_sword
 narutomodaddononero:knight_sword
