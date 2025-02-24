@@ -2591,3 +2591,61 @@ Caused by: java.lang.NoSuchMethodError: net.narutomod.procedure.ProcedureUtils.i
 [13:41:12] [Server thread/INFO] [Waila]: Player EntityPlayerMP['G4R3N'/721116, l='world', x=-39599.75, y=67.00, z=34377.62] connected. Sending ping
 [13:41:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Disconnected
 [13:41:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[13:43:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[13:43:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[13:43:26] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[13:43:26] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 88 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,mmadd@1.0.0,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2860,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@1.8.0,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,tombstone@4.7.4,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[13:43:26] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [clearlag] at CLIENT
+[13:43:26] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[13:43:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[13:43:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: G4R3N[/127.78.50.27:36113] logged in with entity id 1059297 at (-39599.752770490086, 67.0, 34377.62315240273)
+[13:43:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N joined the game
+[13:43:28] [Server thread/INFO] [Waila]: Player EntityPlayerMP['G4R3N'/1059297, l='world', x=-39599.75, y=67.00, z=34377.62] connected. Sending ping
+[13:43:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Disconnected
+[13:43:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[13:44:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 lost connection: Disconnected
+[13:44:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 left the game
+[13:45:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[13:45:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[13:45:56] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[13:45:56] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 88 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,mmadd@1.0.0,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2860,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@1.8.0,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,tombstone@4.7.4,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[13:45:56] [Netty Epoll Server IO #6/INFO] [FML]: Attempting connection with missing mods [clearlag] at CLIENT
+[13:45:56] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[13:45:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'g4r3n' cannot be found
+[13:45:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[13:45:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: G4R3N[/127.78.50.27:45975] logged in with entity id 1213990 at (-39599.752770490086, 67.0, 34377.62315240273)
+[13:45:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N joined the game
+[13:45:57] [Server thread/INFO] [Waila]: Player EntityPlayerMP['G4R3N'/1213990, l='world', x=-39599.75, y=67.00, z=34377.62] connected. Sending ping
+[13:45:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set G4R3N's game mode to Creative Mode
+[13:46:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set G4R3N's game mode to Creative Mode
+[13:46:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Disconnected
+[13:46:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[13:48:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[13:48:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[13:48:45] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[13:48:45] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 88 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,mmadd@1.0.0,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2860,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@1.8.0,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,tombstone@4.7.4,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[13:48:45] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [clearlag] at CLIENT
+[13:48:45] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[13:48:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[13:48:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: G4R3N[/127.78.50.27:58181] logged in with entity id 1247577 at (-39599.752770490086, 67.0, 34377.62315240273)
+[13:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N joined the game
+[13:48:47] [Server thread/INFO] [Waila]: Player EntityPlayerMP['G4R3N'/1247577, l='world', x=-39599.75, y=67.00, z=34377.62] connected. Sending ping
+[13:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [G4R3N: Set own game mode to Survival Mode]
+[13:49:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Disconnected
+[13:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[13:49:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[13:49:45] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:234]: Server is stopping... force saving all loaded CosmeticArmor data.
+[13:49:45] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: d20fe2b6-56a6-3f90-bf74-bbd2a10b964b
+[13:49:45] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: 697ac204-9ac6-3996-9215-037ca08c1786
+[13:49:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[13:49:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[13:49:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[13:49:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[13:49:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/kamuidimension
+[13:49:45] [Server thread/INFO] [FML]: Unloading dimension 0
+[13:49:45] [Server thread/INFO] [FML]: Unloading dimension 3
+[13:49:45] [Server thread/INFO] [RetroSophisticatedBackpacks]: Backpack UUID cache has been cleared
+[13:49:45] [Armourer's Workshop Server Skin Thread/INFO] [armourers_workshop]: Stopped server skin thread.
+[13:49:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[13:49:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[13:49:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
