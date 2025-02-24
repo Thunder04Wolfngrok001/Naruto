@@ -2560,3 +2560,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [14:07:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
 [14:09:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
 [14:09:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[14:12:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[14:12:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[14:14:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[14:14:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[14:14:48] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:234]: Server is stopping... force saving all loaded CosmeticArmor data.
+[14:14:48] [Server thread/INFO] [STDOUT]: [lain.mods.cos.InventoryManager:onServerStopping:237]: 697ac204-9ac6-3996-9215-037ca08c1786
+[14:14:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[14:14:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[14:14:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[14:14:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[14:14:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/kamuidimension
+[14:14:49] [Server thread/INFO] [FML]: Unloading dimension 0
+[14:14:49] [Server thread/INFO] [FML]: Unloading dimension 3
+[14:14:49] [Server thread/INFO] [RetroSophisticatedBackpacks]: Backpack UUID cache has been cleared
+[14:14:49] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[14:14:49] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[14:14:49] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
