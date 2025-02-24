@@ -2671,3 +2671,156 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [15:58:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
 [15:59:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
 [16:00:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[16:00:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 9.754507535115408,2.324472989670724,2.400100876977376
+[16:00:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3630ms behind, skipping 72 tick(s)
+[16:01:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 3.1154346907205763,-1.0264197599971823,9.665979884979606
+[16:01:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 9.987913509881764,0.23988789208196692,1.902123398744152
+[16:01:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:01:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 9.977718261259724,1.7044729998035137,-3.0650759221462067
+[16:01:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:01:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:01:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 16364ms behind, skipping 327 tick(s)
+[16:01:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:01:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA was killed by Uzumaki Naruto using ninjutsu
+[16:02:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2444ms behind, skipping 48 tick(s)
+[16:03:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:03:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:03:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:03:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:04:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:04:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:05:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:05:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:06:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:06:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:06:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:08:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:08:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:08:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:09:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:09:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:09:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:10:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:11:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:11:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:11:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:12:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:12:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:13:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:13:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:14:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:14:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -1.2920433562790024,-10.67004437397236,0.12413601836868793
+[16:14:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA was killed by Jiraiya using senjutsu
+[16:14:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:15:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:16:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:16:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:16:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:17:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:17:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 15.87719147998024,0.31554515875554046,-7.698419945222241
+[16:18:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 6.210644506743101,1.3665419915662795,-17.729672984230007
+[16:18:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 2.236206715803206,-0.44749789698342113,-10.15347855402402
+[16:18:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -9.503336842305583,-1.1763259241275392,13.428763226741097
+[16:18:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -4.965349626090525,1.1824111747479122,14.307905751473271
+[16:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -5.403887296735133,0.5456378595315954,9.507290163303736
+[16:18:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -9.998970507807293,-0.5169479491049742,2.3283149879010807
+[16:18:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -1.3852081023274394,0.5456378595315954,10.887142963812948
+[16:18:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 1.474271186084323,-0.9015638081947657,-15.408005397005809
+[16:18:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 9.802174452902264,-1.3565297740373552,-15.482515165652728
+[16:18:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 10.764299079581079,1.1824111747479122,-10.833068429606868
+[16:18:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:19:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:19:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 8.029612942771394,0.6367733152163169,6.813060441202907
+[16:20:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 16.0099991331292,-0.3175848247783932,-7.379151693245717
+[16:20:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -1.404642644202923,-0.4157392922925709,-10.668032307991098
+[16:20:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -12.03914302951199,-1.040332552278585,-11.375279015771554
+[16:20:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:20:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:20:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 1.8110138865549477,-0.5545080363763901,-10.23864649240545
+[16:21:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:21:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:21:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:21:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -5.6832371466520755,2.6061027102620358,-8.154894920944425
+[16:21:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:22:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:22:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -9.972479433990287,0.959951997523774,-3.5054989961441017
+[16:22:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:23:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:24:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:24:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:24:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:26:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:26:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:28:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 6.576652534887265,0.002319829335618806,7.976179101292303
+[16:28:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:29:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:29:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:29:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[16:29:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:29:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:29:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:29:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:29:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[16:30:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:30:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:30:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:30:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:30:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:30:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 5.55330091783253,13.280237283351909,-0.5206059088086477
+[16:30:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:30:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:31:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:31:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:31:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:32:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 0.5368872378749074,-0.4226943075072285,10.383637882550829
+[16:33:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:34:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[16:34:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 10.954174237180268,-2.157525004739057,3.170963938886416
+[16:34:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[16:34:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -13.043795896228403,5.0047190570859215,18.611913263390306
+[16:34:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:35:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:35:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:35:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:35:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:35:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:35:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[16:35:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:35:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:35:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:35:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:36:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:36:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:36:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:36:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:36:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:37:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:37:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:explosive_ninja that already exists with UUID a8798745-2701-4be4-8482-4f5593e74dcd
+[16:37:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[16:37:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:38:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:explosive_ninja that already exists with UUID a8798745-2701-4be4-8482-4f5593e74dcd
+[16:38:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[16:38:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:38:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:explosive_ninja that already exists with UUID a8798745-2701-4be4-8482-4f5593e74dcd
+[16:38:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:38:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:39:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:39:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:explosive_ninja that already exists with UUID a8798745-2701-4be4-8482-4f5593e74dcd
+[16:40:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
