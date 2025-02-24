@@ -2824,3 +2824,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [16:39:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
 [16:39:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:explosive_ninja that already exists with UUID a8798745-2701-4be4-8482-4f5593e74dcd
 [16:40:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:41:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:41:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:41:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 4.981856063262967,-1.9719801224623268,8.556203960135463
+[16:43:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:46:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:46:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:47:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[16:48:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:49:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
