@@ -65,15 +65,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-25 22:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-02-19 03:27:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-25 22:54:07 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/clear_glass_orange2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-25 22:55:18 +0000"
     },
     "done": true
   },
@@ -104,6 +122,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-19 03:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-25 22:54:07 +0000"
     },
     "done": true
   },
@@ -964,6 +988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-25 22:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-02-19 21:42:33 +0000"
@@ -1055,6 +1085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-25 22:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2025-02-20 05:14:57 +0000"
@@ -1070,6 +1106,12 @@
   "connectedglass:recipes/buildingblocks/tinted_borderless_glass_magenta2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2025-02-25 23:02:52 +0000"
     },
     "done": true
   },
@@ -1415,6 +1457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-25 22:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-02-19 03:27:42 +0000"
@@ -1544,6 +1592,12 @@
   "connectedglass:recipes/buildingblocks/tinted_borderless_glass_gray2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-02-25 22:54:07 +0000"
     },
     "done": true
   },
@@ -1923,6 +1977,12 @@
   "connectedglass:recipes/buildingblocks/scratched_glass_magenta2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2025-02-25 23:02:52 +0000"
     },
     "done": true
   },
