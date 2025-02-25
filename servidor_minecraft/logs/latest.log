@@ -2860,3 +2860,423 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [23:01:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
 [23:02:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Creative Mode]
 [23:03:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Survival Mode]
+[23:04:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:04:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:06:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Creative Mode]
+[23:06:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:08:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Survival Mode]
+[23:08:12] [Server thread/INFO] [Apotheosis : Core]: Transforming ContainerRepair...
+[23:08:12] [Server thread/INFO] [Apotheosis : Core]: Successfully removed the anvil level cap.
+[23:08:12] [Server thread/INFO] [Apotheosis : Core]: Replaced ContainerRepair Enchantment#getMaxLevel #1.
+[23:08:12] [Server thread/INFO] [Apotheosis : Core]: Replaced ContainerRepair Enchantment#getMaxLevel #2.
+[23:08:12] [Server thread/INFO] [Apotheosis : Core]: Successfully transformed ContainerRepair
+[23:09:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:09:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:11:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:11:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:14:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:14:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:14:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:14:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -0.7177756016746173,1.3659873161203393,-14.754323757145414
+[23:14:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -14.19270607131267,1.3659873161203393,-2.9079736679761936
+[23:15:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:15:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -14.711042659293327,-0.1645286009186151,3.4429932879480134
+[23:15:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[23:15:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:15:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:15:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[23:15:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Teleported starlord to TUTUMA]
+[23:16:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[23:16:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[23:16:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:16:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:16:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:16:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:16:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[23:16:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Survival Mode]
+[23:17:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Creative Mode]
+[23:18:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Survival Mode]
+[23:19:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:19:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:19:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:19:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:19:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:19:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:19:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:19:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:19:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:19:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:19:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:19:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 3.4323145959860994,4.676932213130129,9.722328240284696
+[23:19:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! -10.504964855237631,-3.9193163079762954,12.135644936308381
+[23:19:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[23:19:43] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table kabutoaddon:kabutoloot
+[23:20:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! -4.546395919511269,0.6513096505259597,-15.624264715632307
+[23:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! -15.718766216174117,1.181867592800316,-4.1034777420863975
+[23:21:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:21:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[23:24:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:24:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:24:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! 4.186652345852053,-4.2596251668959795,19.124519721335673
+[23:24:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:24:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:24:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! 11.039260005818505,1.2268702811209238,7.002401535566605
+[23:24:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:24:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[23:24:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:24:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:24:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:24:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:24:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:24:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:25:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:25:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:25:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:25:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:25:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:25:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:25:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA has reached the goal [Kekkei Tota Acquired]
+[23:26:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:26:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:26:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:26:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:27:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:28:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[23:28:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA has reached the goal [Lava Release Acquired]
+[23:29:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:29:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[23:30:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:30:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[23:30:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 9.725688888640434,-0.6220165965861781,-3.359850408145576
+[23:30:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.zombie.infect' to starlord]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.zombie.infect' to TUTUMA]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Granted the entire advancement 'narutomodaddon:activate_chakra_charge' to starlord]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Title command successfully executed]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to starlord for 1 seconds]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 1000 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Chakra ++ (ID 42) * 0 to starlord for 1 seconds]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.illusion_illager.prepare_blindness' to starlord]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.illusion_illager.prepare_blindness' to TUTUMA]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to starlord for 1 seconds]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.shulker.shoot' to starlord]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.shulker.shoot' to TUTUMA]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:activate_chakra_charge' from starlord]
+[23:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Title command successfully executed]
+[23:31:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:31:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:31:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:31:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:31:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:32:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:32:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:33:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:33:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[23:34:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:34:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:34:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Creative Mode]
+[23:34:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:35:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[23:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Survival Mode]
+[23:35:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:35:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:36:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[23:36:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:36:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:36:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Creative Mode]
+[23:37:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Survival Mode]
+[23:37:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:37:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA was slain by Otsutsuki
+[23:37:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:37:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:37:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[23:37:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:37:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[23:38:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[23:38:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! 12.89864679385937,-0.9019818349886464,-8.888633835078508
+[23:38:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord was squished too much
+[23:38:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA suffocated in a wall
+[23:39:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[23:39:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:39:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.zombie.infect' to starlord]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Granted the entire advancement 'narutomodaddon:activate_chakra_charge' to starlord]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Title command successfully executed]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to starlord for 1 seconds]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 1000 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Chakra ++ (ID 42) * 0 to starlord for 1 seconds]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.illusion_illager.prepare_blindness' to starlord]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to starlord for 1 seconds]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 1000 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Chakra ++ (ID 42) * 0 to starlord for 1 seconds]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.illusion_illager.prepare_blindness' to starlord]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to starlord for 1 seconds]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 1000 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Chakra ++ (ID 42) * 0 to starlord for 1 seconds]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.illusion_illager.prepare_blindness' to starlord]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to starlord for 1 seconds]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 1000 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Chakra ++ (ID 42) * 0 to starlord for 1 seconds]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.illusion_illager.prepare_blindness' to starlord]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to starlord for 1 seconds]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 1000 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Chakra ++ (ID 42) * 0 to starlord for 1 seconds]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.illusion_illager.prepare_blindness' to starlord]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to starlord for 1 seconds]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 1000 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Chakra ++ (ID 42) * 0 to starlord for 1 seconds]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.illusion_illager.prepare_blindness' to starlord]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to starlord for 1 seconds]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 1000 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Chakra ++ (ID 42) * 0 to starlord for 1 seconds]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.illusion_illager.prepare_blindness' to starlord]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to starlord for 1 seconds]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 1000 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Chakra ++ (ID 42) * 0 to starlord for 1 seconds]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.illusion_illager.prepare_blindness' to starlord]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Given Charging Chakra (ID 49) * 0 to starlord for 1 seconds]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect wake for 100 times]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'minecraft:entity.shulker.shoot' to starlord]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Revoked the entire advancement 'narutomodaddon:activate_chakra_charge' from starlord]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Title command successfully executed]
+[23:40:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[23:41:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Teleported TUTUMA to starlord]
+[23:41:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:41:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[23:42:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 9.864177520445082,-1.7305478854940262,-17.735575022175908
+[23:42:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! 19.92044131142029,0.5541528862609297,15.521494518252439
+[23:43:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 1.3761616418632912,-1.2367178356713708,-14.786461342926486
+[23:43:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -11.351806212151132,-0.4810531538604863,2.332169636283652
+[23:43:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord has made the advancement [Ice Bucket Challenge]
+[23:43:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -1.3230034163207165,0.3685402247588314,-10.909685893770074
+[23:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[23:44:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!

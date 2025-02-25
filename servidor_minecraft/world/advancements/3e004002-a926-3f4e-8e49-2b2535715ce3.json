@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "editenchanting:recipes/recipes/enchantment_edit_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-25 23:43:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-02-19 22:21:14 +0000"
@@ -842,6 +848,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-19 03:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-25 23:43:13 +0000"
     },
     "done": true
   },
@@ -1686,6 +1698,12 @@
   "connectedglass:recipes/buildingblocks/borderless_glass_silver2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-25 23:43:13 +0000"
     },
     "done": true
   },

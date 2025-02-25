@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "narutomod:yooton_acquired": {
+    "criteria": {
+      "yooton_acquired": "2025-02-25 23:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-02-19 21:17:11 +0000"
@@ -374,6 +380,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-02-19 02:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-25 23:26:06 +0000"
     },
     "done": true
   },
@@ -1006,6 +1018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-25 23:26:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-19 21:42:33 +0000"
@@ -1130,6 +1148,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-19 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "narutomod:kekkei_tota_awakened": {
+    "criteria": {
+      "kekkei_tota_awakened": "2025-02-25 23:26:19 +0000"
     },
     "done": true
   },
@@ -1448,6 +1472,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-19 03:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2025-02-25 23:26:06 +0000"
     },
     "done": true
   },
