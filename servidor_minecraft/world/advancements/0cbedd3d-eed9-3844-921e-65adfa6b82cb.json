@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:51:33 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/scratched_glass_pink2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
@@ -910,6 +916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-02-26 21:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-02-19 03:02:43 +0000"
@@ -1067,6 +1079,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:51:33 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/scratched_glass_orange2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
@@ -1139,9 +1157,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:51:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2025-02-20 05:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:59:47 +0000"
     },
     "done": true
   },
@@ -1208,6 +1238,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-19 03:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:59:47 +0000"
     },
     "done": true
   },
@@ -1577,6 +1613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-26 20:47:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-19 02:45:08 +0000"
@@ -1586,6 +1628,12 @@
   "connectedglass:recipes/decorations/borderless_glass_brown_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:51:33 +0000"
     },
     "done": true
   },
@@ -1664,6 +1712,12 @@
   "connectedglass:recipes/buildingblocks/scratched_glass_white2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:59:47 +0000"
     },
     "done": true
   },
@@ -1823,6 +1877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-26 20:47:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-02-20 05:50:59 +0000"
@@ -1832,6 +1892,12 @@
   "connectedglass:recipes/buildingblocks/scratched_glass_lime2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-02-26 21:01:25 +0000"
     },
     "done": true
   },
@@ -1888,6 +1954,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-02-20 05:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:59:47 +0000"
     },
     "done": true
   },
@@ -1984,6 +2056,12 @@
   "connectedglass:recipes/decorations/scratched_glass_black_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:59:47 +0000"
     },
     "done": true
   },
@@ -2146,6 +2224,12 @@
   "connectedglass:recipes/decorations/borderless_glass_orange_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:51:33 +0000"
     },
     "done": true
   },

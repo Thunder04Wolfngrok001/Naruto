@@ -980,6 +980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-20 15:28:48 +0000"
@@ -1076,6 +1082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-26 20:34:44 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/scratched_glass_lime2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
@@ -1132,6 +1144,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-02-25 00:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:51:10 +0000"
     },
     "done": true
   },
@@ -1924,6 +1942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:51:10 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/tinted_borderless_glass_black2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
@@ -1981,6 +2005,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-20 03:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:51:10 +0000"
     },
     "done": true
   },
@@ -2200,6 +2230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-26 20:34:44 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/borderless_glass_orange2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
@@ -2359,6 +2395,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-02-20 03:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:51:10 +0000"
     },
     "done": true
   },
