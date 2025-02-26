@@ -1054,6 +1054,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2025-02-26 17:10:52 +0000",
       "forest": "2025-02-20 02:43:01 +0000",
       "birch_forest": "2025-02-19 03:47:17 +0000",
       "swampland": "2025-02-24 00:11:36 +0000",
