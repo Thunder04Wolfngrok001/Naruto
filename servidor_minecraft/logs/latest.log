@@ -2524,3 +2524,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [15:41:58] [Server thread/INFO] [FML]: Loading dimension 449 (world) (net.minecraft.server.dedicated.DedicatedServer@16cf379d)
 [15:41:58] [Server thread/INFO] [armourers_workshop]: Adding WorldEventListener to world net.minecraft.world.WorldServerMulti@60345d31
 [15:42:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2202ms behind, skipping 44 tick(s)
+[15:43:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:43:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 29 items!
+[15:43:23] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[15:43:23] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[15:43:23] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[15:43:23] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[15:43:23] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[15:43:23] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[15:43:29] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (11, 48) should be (12, 48), EntityPlayerClone['Player Clone'/673383, l='world', x=183.70, y=30.00, z=770.33]
+[15:43:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity sharinganaddon:playerclone but it was marked as removed already
+[15:44:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:44:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 16 items!
+[15:45:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved wrongly!
+[15:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:46:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 15 items!
+[15:47:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved wrongly!
+[15:48:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported G4R3N to gamesforever750]
+[15:48:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:48:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 159 items!
+[15:49:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! -5.660519211501082,-5.13879265505156,9.96865733035645
+[15:49:41] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table kabutoaddon:kabutoloot
+[15:49:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:49:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 114 items!
+[15:51:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Given [Sharingan] * 1 to gamesforever750]
+[15:51:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:51:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 25 items!
+[15:51:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Creative Mode]
+[15:51:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Survival Mode]
