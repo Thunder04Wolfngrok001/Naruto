@@ -524,8 +524,8 @@ lootbags:loot_opener
 lootbags:loot_recycler
 lootbags:loot_storage
 lootr:lootr_trapped_chest
-lootr:lootr_inventory
 lootr:lootr_shulker
+lootr:lootr_inventory
 lootr:lootr_chest
 lootr:trophy
 mowziesmobs:painted_acacia
