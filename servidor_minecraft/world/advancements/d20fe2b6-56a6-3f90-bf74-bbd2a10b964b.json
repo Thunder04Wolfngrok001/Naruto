@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:12:03 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/clear_glass_orange2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-19 03:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:12:03 +0000"
     },
     "done": true
   },
@@ -959,6 +971,12 @@
   "connectedglass:recipes/buildingblocks/tinted_borderless_glass_gray2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:12:03 +0000"
     },
     "done": true
   },
@@ -1846,6 +1864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-02-20 01:33:14 +0000"
@@ -1885,6 +1909,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-19 00:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 20:12:03 +0000"
     },
     "done": true
   },
