@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-26 17:22:23 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/scratched_glass_pink2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:18:34 +0000"
@@ -1059,21 +1065,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 17:22:23 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/buildingblocks/scratched_glass_orange2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:18:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-02-26 01:02:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-02-26 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-26 01:02:16 +0000"
     },
     "done": true
   },
@@ -1134,6 +1146,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-26 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-26 17:22:23 +0000"
     },
     "done": true
   },
@@ -1614,6 +1632,12 @@
   "connectedglass:recipes/decorations/borderless_glass_brown_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 00:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-02-26 17:22:23 +0000"
     },
     "done": true
   },
@@ -2222,6 +2246,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2025-02-20 05:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-26 17:22:23 +0000"
     },
     "done": true
   },

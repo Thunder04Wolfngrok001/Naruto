@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2025-02-26 17:17:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 00:25:38 +0000"
@@ -272,6 +278,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-02-19 21:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-26 17:19:00 +0000"
     },
     "done": true
   },
@@ -656,6 +668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-26 17:19:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-02-20 03:00:14 +0000"
@@ -890,6 +908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-02-26 17:19:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 00:25:38 +0000"
@@ -1071,6 +1095,7 @@
       "taiga": "2025-02-20 20:50:30 +0000",
       "redwood_taiga_hills": "2025-02-20 20:52:53 +0000",
       "birch_forest_hills": "2025-02-20 02:38:17 +0000",
+      "taiga_cold": "2025-02-26 17:16:20 +0000",
       "ocean": "2025-02-19 03:42:47 +0000",
       "extreme_hills": "2025-02-20 02:40:22 +0000",
       "roofed_forest": "2025-02-20 16:10:35 +0000",
@@ -1839,6 +1864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 17:19:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-23 19:53:54 +0000"
@@ -2430,6 +2461,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2025-02-20 03:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-26 17:19:00 +0000"
     },
     "done": true
   },
