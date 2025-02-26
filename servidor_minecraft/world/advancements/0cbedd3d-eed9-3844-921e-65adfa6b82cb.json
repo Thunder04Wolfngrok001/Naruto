@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-26 14:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 03:56:30 +0000"
@@ -224,6 +230,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 21:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-26 14:07:49 +0000"
     },
     "done": true
   },
@@ -787,6 +799,12 @@
   "connectedglass:recipes/decorations/scratched_glass_cyan_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-26 14:07:49 +0000"
     },
     "done": true
   },
@@ -2076,6 +2094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-26 14:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-02-19 04:10:28 +0000"
@@ -2109,6 +2133,12 @@
   "connectedglass:recipes/decorations/borderless_glass_magenta_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-19 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-02-26 14:07:49 +0000"
     },
     "done": true
   },
