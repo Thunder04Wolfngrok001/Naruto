@@ -2579,3 +2579,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [13:43:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [13:43:23] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [13:43:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[13:43:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[13:43:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [G4R3N: Set own game mode to Survival Mode]
+[13:43:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[13:43:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[13:43:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[13:44:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Disconnected
+[13:44:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[13:44:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[13:44:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[13:44:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[13:45:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[13:45:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[13:45:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 15.57598219368083,1.181867592800316,-1.0745119208295364
+[13:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[13:46:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[13:46:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[13:47:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[13:47:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[13:47:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -17.25458068275475,0.6513096505259597,0.48806295593385585
+[13:47:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -13.904478556381946,1.181867592800316,-7.119070897126221
+[13:47:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -14.67725284473272,0.6513096505259597,-6.673900946574577
+[13:47:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[13:47:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -4.973091148203821,-0.30069431808463776,-9.68921317969216
+[13:47:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -14.510897025829763,1.3659873161203393,-0.4662661425609258
+[13:47:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[13:47:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -8.636131158782518,0.0879349517732777,13.204208474402549
+[13:47:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -9.877968535467517,-0.7186486537229086,3.238566924490442
+[13:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[13:48:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[13:49:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[13:49:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 13.198966721800389,1.001430260434887,-13.344948433048557
+[13:50:32] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[13:50:32] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[13:50:32] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[13:50:32] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[13:50:32] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[13:50:32] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[13:50:32] [Server thread/INFO] [Apotheosis : Core]: Transforming WorldGenDungeons...
+[13:50:32] [Server thread/INFO] [Apotheosis : Core]: Successfully transformed WorldGenDungeons
+[13:50:32] [Server thread/INFO] [yungslaw]: YUNG's Law config file for dimension 0 not found. Using global config...
+[13:50:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -9.810858794917294,1.9677937146413598,-13.551518096996006
+[13:51:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 13.273263848139322,4.676932213130129,2.0
+[13:51:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[13:51:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[13:52:12] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[13:52:12] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 88 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,mmadd@1.0.0,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@1.8.0,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,tombstone@4.7.4,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[13:52:12] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[13:52:12] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [clearlag] at CLIENT
+[13:52:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[13:52:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: G4R3N[/127.89.240.23:40237] logged in with entity id 3782920 at (341.5, 62.0, 197.5)
+[13:52:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N joined the game
+[13:52:13] [Server thread/INFO] [Waila]: Player EntityPlayerMP['G4R3N'/3782920, l='world', x=341.50, y=62.00, z=197.50] connected. Sending ping
+[13:52:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[13:52:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[13:52:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[13:52:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Disconnected
+[13:52:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[13:53:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'g4r3n' cannot be found
+[13:53:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[13:53:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
