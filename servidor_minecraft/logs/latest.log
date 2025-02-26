@@ -5,3 +5,99 @@
 [00:02:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
 [00:04:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
 [00:04:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[00:05:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[00:05:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[00:05:50] [Server thread/WARN] [net.minecraft.network.NetworkSystem]: Failed to handle packet for /127.182.30.89:57385
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:459) ~[oq.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_73660_a(NetHandlerPlayServer.java:173) ~[pa.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.func_73660_a(NetworkDispatcher.java:209) ~[NetworkDispatcher$1.class:?]
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:285) ~[gw.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:180) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.lang.NoSuchMethodError: net.narutomod.procedure.ProcedureUtils.isWearingMangekyo(Lnet/minecraft/entity/EntityLivingBase;)Z
+	at net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureWhiteZetsuFleshFoodEaten.executeProcedure(HookProcedureWhiteZetsuFleshFoodEaten.java:34) ~[HookProcedureWhiteZetsuFleshFoodEaten.class:1.0]
+	at net.narutomod.procedure.ProcedureWhiteZetsuFleshFoodEaten.executeProcedure(ProcedureWhiteZetsuFleshFoodEaten.java:146) ~[ProcedureWhiteZetsuFleshFoodEaten.class:1.0]
+	at net.narutomod.item.ItemWhiteZetsuFlesh$ItemFoodCustom.func_77849_c(ItemWhiteZetsuFlesh.java:68) ~[ItemWhiteZetsuFlesh$ItemFoodCustom.class:?]
+	at net.minecraft.item.ItemFood.func_77654_b(SourceFile:46) ~[aij.class:?]
+	at net.minecraft.item.ItemStack.func_77950_b(ItemStack.java:222) ~[aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_71036_o(EntityLivingBase.java:2789) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayerMP.func_71036_o(EntityPlayerMP.java:1125) ~[oq.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184608_ct(EntityLivingBase.java:2688) ~[vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2097) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:234) ~[aed.class:?]
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:382) ~[oq.class:?]
+	... 9 more
+[00:05:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA lost connection: Internal server error
+[00:05:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA left the game
+[00:06:01] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[00:06:01] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 86 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@2.4.6,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[00:06:01] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[00:06:01] [Netty Epoll Server IO #4/INFO] [FML]: Attempting connection with missing mods [clearlag] at CLIENT
+[00:06:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:06:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TUTUMA[/127.182.30.89:45613] logged in with entity id 16506745 at (-40301.955779637385, 67.0, 34072.10092568977)
+[00:06:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA joined the game
+[00:06:03] [Server thread/INFO] [Waila]: Player EntityPlayerMP['TUTUMA'/16506745, l='world', x=-40301.96, y=67.00, z=34072.10] connected. Sending ping
+[00:06:19] [Server thread/WARN] [net.minecraft.network.NetworkSystem]: Failed to handle packet for /127.54.216.215:52791
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:459) ~[oq.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_73660_a(NetHandlerPlayServer.java:173) ~[pa.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.func_73660_a(NetworkDispatcher.java:209) ~[NetworkDispatcher$1.class:?]
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:285) ~[gw.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:180) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+Caused by: java.lang.NoSuchMethodError: net.narutomod.procedure.ProcedureUtils.isWearingMangekyo(Lnet/minecraft/entity/EntityLivingBase;)Z
+	at net.decentstudio.rinneganaddon.hooklib.hooks.HookProcedureWhiteZetsuFleshFoodEaten.executeProcedure(HookProcedureWhiteZetsuFleshFoodEaten.java:34) ~[HookProcedureWhiteZetsuFleshFoodEaten.class:1.0]
+	at net.narutomod.procedure.ProcedureWhiteZetsuFleshFoodEaten.executeProcedure(ProcedureWhiteZetsuFleshFoodEaten.java:146) ~[ProcedureWhiteZetsuFleshFoodEaten.class:1.0]
+	at net.narutomod.item.ItemWhiteZetsuFlesh$ItemFoodCustom.func_77849_c(ItemWhiteZetsuFlesh.java:68) ~[ItemWhiteZetsuFlesh$ItemFoodCustom.class:?]
+	at net.minecraft.item.ItemFood.func_77654_b(SourceFile:46) ~[aij.class:?]
+	at net.minecraft.item.ItemStack.func_77950_b(ItemStack.java:222) ~[aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_71036_o(EntityLivingBase.java:2789) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayerMP.func_71036_o(EntityPlayerMP.java:1125) ~[oq.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184608_ct(EntityLivingBase.java:2688) ~[vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2097) ~[vp.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:234) ~[aed.class:?]
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:382) ~[oq.class:?]
+	... 9 more
+[00:06:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: starlord lost connection: Internal server error
+[00:06:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord left the game
+[00:06:27] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[00:06:27] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 85 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[00:06:27] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[00:06:27] [Netty Epoll Server IO #6/INFO] [FML]: Attempting connection with missing mods [clearlag, roguelike] at CLIENT
+[00:06:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:06:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: starlord[/127.54.216.215:52913] logged in with entity id 16559429 at (-40304.78711055508, 67.0, 34072.311146022184)
+[00:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord joined the game
+[00:06:28] [Server thread/INFO] [Waila]: Player EntityPlayerMP['starlord'/16559429, l='world', x=-40304.79, y=67.00, z=34072.31] connected. Sending ping
+[00:06:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[00:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[00:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Creative Mode]
+[00:07:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Survival Mode]
+[00:08:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[00:08:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[00:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[00:08:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[00:08:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! 11.440254532906692,-1.1767273970760073,-9.239404343359638
+[00:08:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[00:09:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[00:09:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[00:09:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[00:11:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! 10.000896101955732,-0.5547108004898291,2.5561320379420067
+[00:11:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 1.2391485026382725,-0.23152379758701613,16.610361679049674
+[00:11:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[00:11:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[00:12:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 8.444249588857929,0.3685402247588314,5.751998141153308
+[00:12:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[00:12:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 7.955564717143716,1.181867592800316,14.400151782749163
+[00:12:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[00:12:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 11.227627907828719,-1.7493428982477752,13.259027147636516
+[00:14:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[00:14:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
