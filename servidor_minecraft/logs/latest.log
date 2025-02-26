@@ -101,3 +101,25 @@ Caused by: java.lang.NoSuchMethodError: net.narutomod.procedure.ProcedureUtils.i
 [00:12:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 11.227627907828719,-1.7493428982477752,13.259027147636516
 [00:14:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
 [00:14:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[00:15:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord was killed by TUTUMA using ninjutsu
+[00:15:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[00:16:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 5.915669068956049,3.2667310878036844,-7.505803929132526
+[00:16:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[00:16:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[00:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord was squished too much
+[00:18:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[00:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[00:19:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[00:19:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[00:19:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[00:20:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: starlord lost connection: Timed out
+[00:20:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord left the game
+[00:20:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -14.863026712242572,1.001430260434887,11.351366641036293
+[00:21:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 10.351382160777575,-0.7526167671314568,-0.42734578860836336
+[00:21:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 19.395903288379486,-0.2336320060424839,-5.296362432949536
+[00:21:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA lost connection: Disconnected
+[00:21:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA left the game
+[00:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[00:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[00:24:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[00:24:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
