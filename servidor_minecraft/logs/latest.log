@@ -2833,3 +2833,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [15:59:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N joined the game
 [15:59:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['G4R3N'/11381692, l='world', x=91.30, y=68.00, z=300.70] connected. Sending ping
 [15:59:48] [Server thread/INFO] [STDOUT]: [net.narutomod.entity.EntityBijuManager:verifyVesselEntity:482]:  >> Saiken is sealed in G4R3N
+[16:00:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:01:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 was killed by G4R3N using ninjutsu
+[16:01:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 was squished too much
+[16:02:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:02:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:02:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:02:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:03:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Disconnected
+[16:03:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[16:03:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:04:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <gamesforever750> toy mas que bug
+[16:04:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <gamesforever750> no me usar mi geki del bijuu
+[16:04:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> falta una fase todavia
+[16:04:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> tu ta en la fase normal todavia
+[16:04:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:05:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <gamesforever750> Si pero estoy bug por que ya la pase
+[16:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:05:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <gamesforever750> la de 3600
+[16:05:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <gamesforever750> tengo 4k
+[16:05:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> depue de esa viene la de 800
+[16:05:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> que tu no controla a la bestia
+[16:05:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:05:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> otra ve
+[16:05:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:rogue_ninja that already exists with UUID 65f07aa3-e0ad-4121-bf56-04d6f88c46b1
+[16:05:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <gamesforever750> No me sale
+[16:06:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <gamesforever750> Estoy viendo la guia
+[16:06:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <gamesforever750> pero soy yo el que esta bug
+[16:06:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <gamesforever750> por que ni las colas me salen
+[16:07:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:07:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:07:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:08:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <gamesforever750> ya
+[16:08:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:08:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:09:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:10:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:10:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> como se activa
+[16:10:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:10:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> ?
+[16:10:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
