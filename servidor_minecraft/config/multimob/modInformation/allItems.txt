@@ -2011,15 +2011,15 @@ kabutoaddon:kabuto_armor_pt_1
 kabutoaddon:sai_jacket
 kabutoaddon:obi_belt
 kabutoaddon:whiterobe
-kabutoaddon:sumirehime
 kabutoaddon:katana
+kabutoaddon:sumirehime
 rerollthingy:mysteriousfruit
 rerollthingy:mysteriousplantbottom
 rerollthingy:mysteriousplanttop
 rerollthingy:forgedmedicaldocuments
 narutomodaddononero:garian_sword
-narutomodaddononero:sword_blue
 narutomodaddononero:shoton
+narutomodaddononero:sword_blue
 narutomodaddononero:kurosawa
 narutomodaddononero:fire_sword
 narutomodaddononero:knight_sword
@@ -2028,8 +2028,8 @@ narutomodaddononero:weaknessless_soaring_shortswordsv_2
 narutomodaddononero:swordofthe_thunder_god
 narutomodaddononero:supervibrato_lightning_release_swords
 narutomodaddononero:tonfa
-narutomodaddononero:crystal_senbon
 narutomodaddononero:konoha_chakra_blade
+narutomodaddononero:crystal_senbon
 narutomodaddononero:bo_staff
 narutomodaddononero:umbrella
 narutomodaddononero:sai
