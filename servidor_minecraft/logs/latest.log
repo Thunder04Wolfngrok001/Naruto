@@ -2526,3 +2526,77 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [15:17:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
 [15:17:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:rogue_ninja that already exists with UUID 65f07aa3-e0ad-4121-bf56-04d6f88c46b1
 [15:17:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[15:19:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:rogue_ninja that already exists with UUID 65f07aa3-e0ad-4121-bf56-04d6f88c46b1
+[15:20:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:20:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[15:22:31] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[15:22:31] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 88 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,mmadd@1.0.0,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@1.8.0,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,tombstone@4.7.4,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[15:22:31] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[15:22:31] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [clearlag] at CLIENT
+[15:22:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:22:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: G4R3N[/127.136.253.227:37495] logged in with entity id 1735195 at (657.2268265668108, 72.0, 81.78626907809436)
+[15:22:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N joined the game
+[15:22:32] [Server thread/INFO] [Waila]: Player EntityPlayerMP['G4R3N'/1735195, l='world', x=657.23, y=72.00, z=81.79] connected. Sending ping
+[15:22:32] [Server thread/INFO] [STDOUT]: [net.narutomod.entity.EntityBijuManager:verifyVesselEntity:482]:  >> Saiken is sealed in G4R3N
+[15:22:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 8fecf9d0-9abe-40a9-ab54-908ab95451b1
+[15:22:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:22:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[15:22:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[15:23:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[15:23:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[15:24:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 8.134709722269747,-0.30431682745754074,6.233535976989572
+[15:25:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:25:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[15:25:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[15:25:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[15:25:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[15:25:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[15:25:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -22.383562129345222,-3.7008323692605813,-2.032654216090691
+[15:25:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[15:25:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[15:26:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[15:26:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -10.949328704033348,1.414538576522375,-0.1986948227958294
+[15:26:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -5.056488896154065,-1.8222582798288585,13.72312005377188
+[15:27:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 2.051055309150371,-1.835927619902094,10.811191235776846
+[15:27:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:27:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[15:29:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:rogue_ninja that already exists with UUID 65f07aa3-e0ad-4121-bf56-04d6f88c46b1
+[15:30:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:30:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[15:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [G4R3N: Teleported G4R3N to TUTUMA]
+[15:31:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> vena ve si funciona lo sojo
+[15:32:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> ven
+[15:32:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:32:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[15:32:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <G4R3N> nada
+[15:33:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> coño y entonce
+[15:33:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <G4R3N> ni idea
+[15:33:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <G4R3N> con zetsu imagino
+[15:35:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:35:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[15:35:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <G4R3N> cuanto te falta de la bestia
+[15:36:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> cuando me la ponga te digo
+[15:36:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> por cuanto va tu?
+[15:36:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <G4R3N> 3007
+[15:36:52] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[15:36:52] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 86 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@2.4.6,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[15:36:52] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[15:36:52] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [clearlag] at CLIENT
+[15:36:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:36:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: gamesforever750[/127.113.113.104:47815] logged in with entity id 4949852 at (-39534.55002102238, 81.0, 51637.30000001192)
+[15:36:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 joined the game
+[15:36:54] [Server thread/INFO] [Waila]: Player EntityPlayerMP['gamesforever750'/4949852, l='world', x=-39534.55, y=81.00, z=51637.30] connected. Sending ping
+[15:36:54] [Server thread/INFO] [STDOUT]: [net.narutomod.entity.EntityBijuManager:verifyVesselEntity:482]:  >> Kokuo is sealed in gamesforever750
+[15:36:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID 791775db-aa7c-41c7-a9b5-2b7a3ede959e
+[15:36:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:chicken that already exists with UUID fc96ca6d-cd75-4004-8757-51d645c33556
+[15:36:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:rogue_ninja that already exists with UUID 36f737d5-0f17-4763-8cba-76dc7daf272e
+[15:36:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:chicken that already exists with UUID 3790f18f-8273-4ef1-b773-0cf08ce466a3
+[15:37:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved too quickly! -1.0699074399789197,-1.835927619902094,-11.420143385960813
+[15:37:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TUTUMA> 2500
+[15:37:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <G4R3N> joputa
+[15:37:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <G4R3N> y tu alexis
+[15:37:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <G4R3N> cuanto te falta de la bestia
+[15:37:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[15:37:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[15:37:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[15:38:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved wrongly!
