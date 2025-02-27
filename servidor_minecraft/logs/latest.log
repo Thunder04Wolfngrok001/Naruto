@@ -4014,3 +4014,349 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [16:30:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported gamesforever750 to starlord]
 [16:30:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 7e60650a-c7f4-4ea0-941e-2e04ee44c739
 [16:30:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:30:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:30:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:30:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:30:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 32 items!
+[16:31:02] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[16:31:02] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[16:31:02] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[16:31:02] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[16:31:02] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[16:31:02] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[16:31:02] [Server thread/INFO] [Apotheosis : Core]: Transforming WorldGenDungeons...
+[16:31:02] [Server thread/INFO] [Apotheosis : Core]: Successfully transformed WorldGenDungeons
+[16:31:02] [Server thread/INFO] [yungslaw]: YUNG's Law config file for dimension 0 not found. Using global config...
+[16:31:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:31:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:31:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID e09fa06d-22ab-4ebc-b8e6-4cee2dff9929
+[16:31:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID e09fa06d-22ab-4ebc-b8e6-4cee2dff9929
+[16:32:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:32:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:32:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved wrongly!
+[16:32:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! 5.245753094445718,1.3659873161203393,15.020794399617444
+[16:32:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! 0.6807562634967326,0.45606144651635816,11.482625099968573
+[16:32:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! 0.4286476127927017,-0.30431682745754074,11.487076231973333
+[16:32:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! -15.331130769860465,1.3659873161203393,11.932106719603325
+[16:32:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! -13.753321931956634,-0.3857593734295648,10.233139524356375
+[16:32:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! 7.98343819753336,1.5538645811576401,-13.054195388489461
+[16:32:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! -1.820269682025355,-0.3444391926922066,-11.326378063928132
+[16:32:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! -10.85717086339173,-0.5348441963705,10.68893455156649
+[16:32:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved wrongly!
+[16:32:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:32:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! -11.772019845425348,1.4580378687259383,6.866059131887596
+[16:32:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 87 items!
+[16:33:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 7e60650a-c7f4-4ea0-941e-2e04ee44c739
+[16:33:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 7e60650a-c7f4-4ea0-941e-2e04ee44c739
+[16:33:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Creative Mode]
+[16:33:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:34:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 7e60650a-c7f4-4ea0-941e-2e04ee44c739
+[16:34:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:34:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:34:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 22 items!
+[16:34:21] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@6f77c070)
+[16:34:21] [Server thread/INFO] [armourers_workshop]: Adding WorldEventListener to world net.minecraft.world.WorldServerMulti@5c6ea8de
+[16:34:22] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:35:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:35:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 7e60650a-c7f4-4ea0-941e-2e04ee44c739
+[16:35:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 7e60650a-c7f4-4ea0-941e-2e04ee44c739
+[16:35:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:35:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:35:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:35:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:shinobi that already exists with UUID 65d11808-d97f-4041-8262-2d57cb67c69c
+[16:36:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID e09fa06d-22ab-4ebc-b8e6-4cee2dff9929
+[16:36:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:shinobi that already exists with UUID 65d11808-d97f-4041-8262-2d57cb67c69c
+[16:36:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:rogue_ninja that already exists with UUID 31ce068a-de37-4dcf-a361-379da5d3f3a3
+[16:37:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[16:37:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[16:37:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:37:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:37:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:kimimaro that already exists with UUID f4962205-cd9d-4979-852a-152e33e342f9
+[16:37:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID e09fa06d-22ab-4ebc-b8e6-4cee2dff9929
+[16:38:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved wrongly!
+[16:38:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:39:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: starlord lost connection: Disconnected
+[16:39:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord left the game
+[16:39:15] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[16:39:15] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 85 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[16:39:15] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[16:39:15] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [clearlag, roguelike] at CLIENT
+[16:39:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:39:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:39:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: starlord[/127.97.253.76:39883] logged in with entity id 22694158 at (7977.929408277101, 74.0, 25969.972988510897)
+[16:39:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord joined the game
+[16:39:17] [Server thread/INFO] [Waila]: Player EntityPlayerMP['starlord'/22694158, l='world', x=7977.93, y=74.00, z=25969.97] connected. Sending ping
+[16:39:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:39:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved wrongly!
+[16:39:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved wrongly!
+[16:39:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:hopper to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:dropper to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:white_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:orange_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:magenta_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:light_blue_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:yellow_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:lime_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:pink_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:gray_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:silver_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:cyan_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:blue_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:brown_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:green_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:red_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added minecraft:black_shulker_box to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added securitycraft:keypad_chest to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added securitycraft:reinforced_hopper to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added securitycraft:reinforced_dispenser to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added securitycraft:reinforced_dropper to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added byg:crate to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added byg:netherfurnacelit to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added narutomod:explosive_tag to the Lootr block replacement list.
+[16:40:09] [Server thread/INFO] [Lootr]: Added narutomod:light_source to the Lootr block replacement list.
+[16:40:10] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 510 and chunkZ 1620...
+[16:40:12] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id builtin:forest at {"x": 8343, "y": 0, "z": 25824}...
+[16:40:12] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [521, 1613] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [520, 1613] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [519, 1613] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [521, 1614] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [522, 1613] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [518, 1613] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [521, 1615] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [522, 1614] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [522, 1615] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [523, 1614] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [522, 1612] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [521, 1616] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [520, 1614] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [519, 1614] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [520, 1615] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [521, 1612] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:13] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [523, 1615] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [524, 1615] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [522, 1616] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [523, 1613] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [523, 1612] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [524, 1612] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [524, 1614] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [524, 1613] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [525, 1614] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [525, 1613] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [526, 1613] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [526, 1614] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [527, 1614] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [525, 1615] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [526, 1615] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [525, 1616] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [527, 1615] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [526, 1616] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:14] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [525, 1612] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:15] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [520, 1612] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:15] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [519, 1612] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:15] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [521, 1611] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:15] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [521, 1617] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:15] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [524, 1616] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:15] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [523, 1616] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:16] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [526, 1617] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:16] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [528, 1615] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:16] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [526, 1612] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:16] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [524, 1611] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:16] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [525, 1611] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:16] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [527, 1613] in dimension 0 (overworld) while populating chunk [510, 1620], causing cascading worldgen lag.
+[16:40:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:17] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id builtin:forest at {"x": 8343, "y": 0, "z": 25824}.
+[16:40:17] [Server thread/INFO] [roguelike]: Task Dungeon.generate() completed in 4338 milliseconds.
+[16:40:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! 7.555308325286205,1.6797950715415624,-7.059598699735943
+[16:40:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved too quickly! 5.861045702025876,-0.2641593272717131,8.23604082979
+[16:40:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! 6.621620134938894,1.495504037173589,-7.568446944089374
+[16:40:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9779ms behind, skipping 195 tick(s)
+[16:40:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 7e60650a-c7f4-4ea0-941e-2e04ee44c739
+[16:40:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: starlord lost connection: Disconnected
+[16:40:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord left the game
+[16:40:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [506, 1605] in dimension 0 (overworld) while populating chunk [507, 1606], causing cascading worldgen lag.
+[16:40:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:40:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:41:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved too quickly! -4.1829676608904265,-4.441304561533272,7.998154548673483
+[16:41:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:41:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:41:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:41:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID e09fa06d-22ab-4ebc-b8e6-4cee2dff9929
+[16:41:26] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [488, 1605] in dimension 0 (overworld) while populating chunk [489, 1604], causing cascading worldgen lag.
+[16:41:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:26] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [488, 1604] in dimension 0 (overworld) while populating chunk [489, 1604], causing cascading worldgen lag.
+[16:41:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:26] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [487, 1603] in dimension 0 (overworld) while populating chunk [488, 1604], causing cascading worldgen lag.
+[16:41:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:26] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [487, 1604] in dimension 0 (overworld) while populating chunk [487, 1603], causing cascading worldgen lag.
+[16:41:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:26] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [487, 1605] in dimension 0 (overworld) while populating chunk [487, 1604], causing cascading worldgen lag.
+[16:41:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:26] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [488, 1603] in dimension 0 (overworld) while populating chunk [487, 1604], causing cascading worldgen lag.
+[16:41:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:26] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [486, 1604] in dimension 0 (overworld) while populating chunk [487, 1603], causing cascading worldgen lag.
+[16:41:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:26] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [485, 1604] in dimension 0 (overworld) while populating chunk [486, 1604], causing cascading worldgen lag.
+[16:41:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved too quickly! 3.58822295157006,-2.2584736190038086,9.120384304682375
+[16:41:33] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[16:41:33] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 85 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[16:41:33] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[16:41:33] [Netty Epoll Server IO #6/INFO] [FML]: Attempting connection with missing mods [clearlag, roguelike] at CLIENT
+[16:41:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:41:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: starlord[/127.97.253.76:37095] logged in with entity id 23391016 at (8044.972507612173, 71.0, 25882.43877259411)
+[16:41:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord joined the game
+[16:41:34] [Server thread/INFO] [Waila]: Player EntityPlayerMP['starlord'/23391016, l='world', x=8044.97, y=71.00, z=25882.44] connected. Sending ping
+[16:41:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [485, 1603] in dimension 0 (overworld) while populating chunk [486, 1603], causing cascading worldgen lag.
+[16:41:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [487, 1602] in dimension 0 (overworld) while populating chunk [486, 1603], causing cascading worldgen lag.
+[16:41:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [486, 1602] in dimension 0 (overworld) while populating chunk [486, 1603], causing cascading worldgen lag.
+[16:41:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [485, 1602] in dimension 0 (overworld) while populating chunk [486, 1602], causing cascading worldgen lag.
+[16:41:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [490, 1602] in dimension 0 (overworld) while populating chunk [490, 1603], causing cascading worldgen lag.
+[16:41:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:40] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [493, 1602] in dimension 0 (overworld) while populating chunk [492, 1603], causing cascading worldgen lag.
+[16:41:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:40] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [492, 1602] in dimension 0 (overworld) while populating chunk [493, 1602], causing cascading worldgen lag.
+[16:41:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:41] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [491, 1602] in dimension 0 (overworld) while populating chunk [493, 1602], causing cascading worldgen lag.
+[16:41:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:41] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [492, 1601] in dimension 0 (overworld) while populating chunk [491, 1602], causing cascading worldgen lag.
+[16:41:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:41] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [493, 1601] in dimension 0 (overworld) while populating chunk [493, 1602], causing cascading worldgen lag.
+[16:41:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [491, 1601] in dimension 0 (overworld) while populating chunk [489, 1602], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [491, 1600] in dimension 0 (overworld) while populating chunk [491, 1601], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [492, 1600] in dimension 0 (overworld) while populating chunk [491, 1600], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [490, 1600] in dimension 0 (overworld) while populating chunk [491, 1601], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [491, 1599] in dimension 0 (overworld) while populating chunk [490, 1600], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [490, 1599] in dimension 0 (overworld) while populating chunk [490, 1600], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [489, 1601] in dimension 0 (overworld) while populating chunk [490, 1599], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [489, 1600] in dimension 0 (overworld) while populating chunk [490, 1599], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [489, 1599] in dimension 0 (overworld) while populating chunk [490, 1599], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [490, 1598] in dimension 0 (overworld) while populating chunk [490, 1599], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [489, 1598] in dimension 0 (overworld) while populating chunk [490, 1598], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:42] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [488, 1599] in dimension 0 (overworld) while populating chunk [489, 1598], causing cascading worldgen lag.
+[16:41:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:43] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [488, 1601] in dimension 0 (overworld) while populating chunk [488, 1599], causing cascading worldgen lag.
+[16:41:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:43] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [487, 1601] in dimension 0 (overworld) while populating chunk [488, 1601], causing cascading worldgen lag.
+[16:41:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:43] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [487, 1600] in dimension 0 (overworld) while populating chunk [487, 1601], causing cascading worldgen lag.
+[16:41:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:43] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [486, 1601] in dimension 0 (overworld) while populating chunk [487, 1600], causing cascading worldgen lag.
+[16:41:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:43] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [486, 1600] in dimension 0 (overworld) while populating chunk [487, 1600], causing cascading worldgen lag.
+[16:41:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:43] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [488, 1600] in dimension 0 (overworld) while populating chunk [488, 1599], causing cascading worldgen lag.
+[16:41:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:43] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [488, 1598] in dimension 0 (overworld) while populating chunk [489, 1598], causing cascading worldgen lag.
+[16:41:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:43] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [488, 1597] in dimension 0 (overworld) while populating chunk [488, 1598], causing cascading worldgen lag.
+[16:41:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:43] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [490, 1601] in dimension 0 (overworld) while populating chunk [489, 1602], causing cascading worldgen lag.
+[16:41:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:41:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! -8.45125980186458,-5.352863571209582,-4.415255738589622
+[16:41:45] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5817ms behind, skipping 116 tick(s)
+[16:42:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:42:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: G4R3N moved too quickly! -2.2492060048971325,-11.522981027671818,0.651050756816403
+[16:42:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:42:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:42:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:43:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:43:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: G4R3N lost connection: Disconnected
+[16:43:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: G4R3N left the game
+[16:43:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[16:44:16] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [498, 1599] in dimension 0 (overworld) while populating chunk [498, 1600], causing cascading worldgen lag.
+[16:44:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:44:16] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [497, 1600] in dimension 0 (overworld) while populating chunk [498, 1600], causing cascading worldgen lag.
+[16:44:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:44:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:44:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:44:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:44:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved too quickly! 7.368577877797179,-0.07840000152587834,7.429188535352296
+[16:44:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[16:45:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Survival Mode]
+[16:45:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:46:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:46:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:47:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set the time to 1000]
+[16:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:47:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:48:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:49:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: starlord moved wrongly!
+[16:49:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord was killed by Iwa Rogue using ninjutsu
+[16:49:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[16:49:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[16:49:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 1f1c6c6f-17fd-4d1f-abc5-aa234a5856ca
+[16:49:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported starlord to gamesforever750]
+[16:50:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: starlord lost connection: Disconnected
+[16:50:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord left the game
+[16:50:58] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[16:50:58] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 85 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[16:50:58] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[16:50:58] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [clearlag, roguelike] at CLIENT
+[16:50:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:50:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: starlord[/127.97.253.76:33081] logged in with entity id 25843566 at (7981.6503018543735, 74.0, 25971.771059475202)
+[16:50:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: starlord joined the game
+[16:50:59] [Server thread/INFO] [Waila]: Player EntityPlayerMP['starlord'/25843566, l='world', x=7981.65, y=74.00, z=25971.77] connected. Sending ping
