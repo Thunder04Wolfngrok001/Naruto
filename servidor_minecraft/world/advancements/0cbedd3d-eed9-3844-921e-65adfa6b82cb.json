@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "narutomod:mokuton_acquired": {
+    "criteria": {
+      "mokuton_acquired": "2025-02-27 20:38:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 03:56:30 +0000"
