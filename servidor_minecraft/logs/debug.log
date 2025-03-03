@@ -31973,3 +31973,166 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 
 [19:59:41] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 55 times.
 
+[20:00:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:00:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:00:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[20:00:31] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 60 times.
+
+[20:00:31] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 60 times.
+
+[20:00:31] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 60 times.
+
+[20:01:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:01:21] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 65 times.
+
+[20:01:21] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 65 times.
+
+[20:01:21] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 65 times.
+
+[20:01:45] [Netty Epoll Server IO #1/DEBUG] [mixin]: Mixing CPacketCustomPayloadMixin from supermartijn642corelib.mixins.json into net.minecraft.network.play.client.CPacketCustomPayload
+[20:01:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:02:11] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 70 times.
+
+[20:02:11] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 70 times.
+
+[20:02:11] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 70 times.
+
+[20:02:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:03:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[20:03:01] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 75 times.
+
+[20:03:01] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 75 times.
+
+[20:03:01] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 75 times.
+
+[20:03:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:03:51] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 80 times.
+
+[20:03:51] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 80 times.
+
+[20:03:51] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 80 times.
+
+[20:04:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:04:41] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 85 times.
+
+[20:04:41] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 85 times.
+
+[20:04:41] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 85 times.
+
+[20:04:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:05:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[20:05:31] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 90 times.
+
+[20:05:31] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 90 times.
+
+[20:05:31] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 90 times.
+
+[20:05:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:06:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:06:21] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 95 times.
+
+[20:06:21] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 95 times.
+
+[20:06:21] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 95 times.
+
+[20:07:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:07:11] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 100 times.
+
+[20:07:11] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 100 times.
+
+[20:07:11] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 100 times.
+
+[20:07:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:07:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:08:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[20:08:01] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 105 times.
+
+[20:08:01] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 105 times.
+
+[20:08:01] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 105 times.
+
+[20:08:03] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:08:03] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:08:03] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:08:03] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:08:03] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[20:08:03] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:86 mods->FMLHandshakeServerState$2:HELLO
+[20:08:03] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 86 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@2.4.6,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[20:08:03] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [clearlag] at CLIENT
+[20:08:03] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[20:08:03] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: WAITINGCACK
+[20:08:03] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:08:03] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: COMPLETE
+[20:08:05] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:08:05] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: DONE
+[20:08:05] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:08:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:08:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: gamesforever750[/127.7.10.12:38037] logged in with entity id 173 at (-40518.30968247991, 63.0, 33799.41656353884)
+[20:08:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 joined the game
+[20:08:05] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:08:05] [Server thread/INFO] [Waila]: Player EntityPlayerMP['gamesforever750'/173, l='world', x=-40518.31, y=63.00, z=33799.42] connected. Sending ping
+[20:08:05] [Server thread/INFO] [STDOUT]: [net.narutomod.entity.EntityBijuManager:verifyVesselEntity:482]:  >> Kokuo is sealed in gamesforever750
+[20:08:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[20:08:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:shinobi that already exists with UUID 678b55bf-b21e-4a35-8086-f80be961c628
+[20:08:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:shinobi that already exists with UUID 65d11808-d97f-4041-8262-2d57cb67c69c
+[20:08:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:rogue_ninja that already exists with UUID 31ce068a-de37-4dcf-a361-379da5d3f3a3
+[20:08:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:rogue_puppet_master that already exists with UUID e29734b9-7bf6-4d4b-9586-d7be05091c70
+[20:08:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[20:08:05] [Server thread/DEBUG] [mixin]: Mixing MerchantRecipeMixin from mixins.somanyenchantments.zombietrades.json into net.minecraft.village.MerchantRecipe
+[20:08:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[20:08:21] [Server thread/DEBUG] [mixin]: Mixing ISpecialArmorArmorPropertiesMixin from mixins.somanyenchantments.vanilla.json into net.minecraftforge.common.ISpecialArmor$ArmorProperties
+[20:08:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 7e60650a-c7f4-4ea0-941e-2e04ee44c739
+[20:08:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:08:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved wrongly!
+[20:08:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[20:08:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID e09fa06d-22ab-4ebc-b8e6-4cee2dff9929
+[20:08:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:shinobi that already exists with UUID 65d11808-d97f-4041-8262-2d57cb67c69c
+[20:08:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:kimimaro that already exists with UUID f4962205-cd9d-4979-852a-152e33e342f9
+[20:08:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! 20.071914253880095,0.8500236916452621,3.7496407800135785
+[20:08:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 moved too quickly! 14.312625186648802,-1.2367178356713708,2.0674735001884983
+[20:08:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:kimimaro that already exists with UUID f4962205-cd9d-4979-852a-152e33e342f9
+[20:08:51] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 110 times.
+
+[20:08:51] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 110 times.
+
+[20:08:51] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 110 times.
+
+[20:09:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:rogue_ninja that already exists with UUID 31ce068a-de37-4dcf-a361-379da5d3f3a3
+[20:09:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:shinobi that already exists with UUID 65d11808-d97f-4041-8262-2d57cb67c69c
+[20:09:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[20:09:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:shinobi that already exists with UUID 65d11808-d97f-4041-8262-2d57cb67c69c
+[20:09:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kokuo moved wrongly!
+[20:09:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:shinobi that already exists with UUID 65d11808-d97f-4041-8262-2d57cb67c69c
+[20:09:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:shinobi that already exists with UUID 65d11808-d97f-4041-8262-2d57cb67c69c
+[20:09:41] [Server thread/DEBUG] [FML]: The world 4412b84d (world) may have leaked: seen 115 times.
+
+[20:09:41] [Server thread/DEBUG] [FML]: The world 4f7bce0d (world) may have leaked: seen 115 times.
+
+[20:09:41] [Server thread/DEBUG] [FML]: The world 14badbd2 (world) may have leaked: seen 115 times.
+
+[20:09:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID e09fa06d-22ab-4ebc-b8e6-4cee2dff9929
+[20:09:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:kimimaro that already exists with UUID f4962205-cd9d-4979-852a-152e33e342f9
+[20:10:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:10:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[20:10:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 7e60650a-c7f4-4ea0-941e-2e04ee44c739
+[20:10:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity kabutoaddon:shinobi that already exists with UUID 678b55bf-b21e-4a35-8086-f80be961c628
